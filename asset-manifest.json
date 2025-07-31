@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Btk-akademi-ai/static/css/main.a0db5593.css",
+    "main.js": "/Btk-akademi-ai/static/js/main.9bf9f075.js",
+    "index.html": "/Btk-akademi-ai/index.html",
+    "main.a0db5593.css.map": "/Btk-akademi-ai/static/css/main.a0db5593.css.map",
+    "main.9bf9f075.js.map": "/Btk-akademi-ai/static/js/main.9bf9f075.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0db5593.css",
+    "static/js/main.9bf9f075.js"
+  ]
+}
