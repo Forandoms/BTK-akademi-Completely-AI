@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+Also you can go the website [https://fullaiprjct.netlify.app/](url) 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
